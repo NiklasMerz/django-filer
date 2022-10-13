@@ -79,7 +79,7 @@ uploading new images.
 .. figure:: _static/default_admin_file_widget.png
    :alt: FileField widget in admin
 
-* Clicking on the magnifying glass will display the file selction popup.
+* Clicking on the magnifying glass will display the file selection popup.
 
 * The red X will de-select the currently selected file (usefull if the field
   can be ``null``).
